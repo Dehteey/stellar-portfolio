@@ -18,7 +18,7 @@ function AboutSection() {
                     </div>
                     <div className="fun-facts">
                         <h3>✦ Things I Love ✦</h3>
-                        <ul><li>💻 Coding</li><li>🎬 Horror movies at 2am</li><li>📖 Reading novels</li><li>✍️ Writing stories</li><li>🎨 Drawing</li></ul>
+                        <ul><li>💻 Coding</li><li>🎬 Horror movies at 3am</li><li>📖 Reading novels</li><li>✍️ Writing stories</li><li>🎨 Drawing</li></ul>
                     </div>
                 </div>
             </div>
